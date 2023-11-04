@@ -1,1 +1,67 @@
+body {
+    font-family: sans-serif;
+}
 
+header {
+    background-color: #d49cff;
+}
+
+#logo{
+    margin: 10px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: #f373ff;
+    color: black;
+    margin: 10px;
+    padding: 0px 10px;
+    border-radius: 10px;
+}
+
+.FantasticParty{
+ color:#826585;
+ border: 7px solid #826585;
+ border-radius: 10px;
+}
+
+footer {
+    background-color: #ffffff;
+}
+
+footer p { 
+    background-color: #ff739f;
+}
+nav {
+    background-color: #ffe1de;
+    border-radius: 10px;
+    padding: 7px;
+}
+nav a {
+text-decoration: none;
+color: #8c0096;
+background-color:#ffe1de;
+margin: 0px;
+padding: 5px;
+border-radius: 10px;
+}
+ .poduct{
+    background-color: #826585;
+    text-align: center;
+}
+.od{
+    color: #d49cff;
+    border-radius: 10px;
+}
+.hed {
+    text-decoration: none;
+    color:#826585;
+ border: 7px solid #826585;
+ border-radius: 10px;
+}
+.idg {
+color: #d49cff;
+}
+.ogh {
+color: #d49cff;
+}
